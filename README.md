@@ -1,6 +1,6 @@
 # Book-list
-Small book list app
-app.js uses objects and prototypes. appes6.js is the same code refactored to use classes. 
+Small book list app_
+app.js uses objects and prototypes._ appes6.js is the same code refactored to use classes. 
 
 ### To run
 
